@@ -1,0 +1,10 @@
+2 Hours - online session in the morning
+1 Hour - Aws
+2 Hours - Ec2 install
+1 Hour - Git
+
+
+Tomorrow's Task
+will learn policy and roles
+Basic Aws Services
+EC 2 connect and Iam service
