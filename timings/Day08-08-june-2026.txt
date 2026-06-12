@@ -1,0 +1,12 @@
+2.5 Hour - online session in the morning
+1   Hour - Aws
+1   Hour - Git
+1   Hour - EC2
+1   Hour - Docker
+
+
+
+Tomorrow's Task
+will learn Kubernetes
+Advance Docker Services
+EC2 connect with eks
