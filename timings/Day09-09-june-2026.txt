@@ -1,0 +1,10 @@
+3 hour - online session in the morning
+1 hour - Aws services
+1 hour - Docker
+1 hour - kubernetes
+
+
+Tomorrow's Task
+will learn kubernetes
+practice kubernetes and docker
+ec2 connect with linux commands practice 

@@ -1,0 +1,10 @@
+3 Hour - online session in the morning
+1 Hour - Aws services
+1 Hour - VPC , peering, subnet , transit gateway
+1 Hour - Ec2 instance with kubernetes
+
+
+Tomorrow's Task
+Will learn Kubernetes Advance 
+Advance docker services
+Ec2 connect with eks, ebs and other services.
